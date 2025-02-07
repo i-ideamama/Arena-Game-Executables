@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1738916689|15830925937';
+const CACHE_VERSION = '1738918630|17771928186';
 /** @type {string} */
 const CACHE_PREFIX = 'Player-Arena Gam-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
